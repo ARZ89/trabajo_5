@@ -1,0 +1,47 @@
+/* titulo */
+
+h1{
+    color: darkmagenta;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*Dias*/
+
+th { 
+    color: darkred;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/*horario*/
+
+td{ 
+    color: black;
+    font-style: italic;
+}
+
+/*header*/ 
+
+header{ background-color: cadetblue;
+        width: 100px;
+        height: 150px;
+        font-size: 10px;
+        
+    }
+
+
+/*footer*/ 
+
+footer{background-color: darkseagreen;
+    width: 100;
+    height: auto;
+    font-size: 30px;
+
+}
+/* lista desordenada*/ 
+li{ list-style: none;
+}
+
+main{border-style: solid;
+
+}
